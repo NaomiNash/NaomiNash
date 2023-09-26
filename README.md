@@ -1,8 +1,8 @@
 # Hey Everyone
 
-- I’m currently learning about software engineering in Saint Leo's Software Engineering course
-- I'm interested in learning about how to make more complex programs
-- My favorite hobbies are watching YouTube, gaming, and reading.
-- My personal interest within computer science is cyber security
+- I’m a Comp. Sci. with Honors Graduate and currenlty in a Cybersecurity Masters
+- I'm interested in learning about how to make fun and useful programs and mobile apps
+- My favorite hobbies are watching YouTube, gaming, and reading fiction novels
+- My personal interest within Computer Science is Cyber Security, and within that Social Engineering
 - Pronouns: She/her
-- Fun fact: Both my older brother and I were/are computer science majors
+- Fun fact: All my siblings have an interest in Computer Science
